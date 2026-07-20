@@ -1,6 +1,6 @@
 # MPO-GPU-FIX Service Configurator
 
-**Automated background service for AMD GPU + Windows registry tweaks.**
+**Automated background service for AMD (and more) GPU + Windows registry tweaks.**
 
 Applies and maintains your preferred optimizations (MPO, ULPS, ShaderCache, TDR, HAGS, Overlays, etc.) on a configurable schedule or at boot.
 
