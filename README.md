@@ -1,29 +1,26 @@
-# MPO-GPU-FIX Service Configurator
+# MPO-GPU-FIX Service Configurator & Service
 
-**Automated background service for AMD (and more) GPU + Windows registry tweaks.**
+**Full automated solution for AMD (and more) GPU + Windows registry optimizations.**
 
-Applies and maintains your preferred optimizations (MPO, ULPS, ShaderCache, TDR, HAGS, Overlays, etc.) on a configurable schedule or at boot.
+Includes:
+- **Background Service** – Applies and maintains your settings automatically
+- **Configurator GUI** – Easy way to choose and update your tweaks
 
 ### Features
-- Runs silently as a Windows Service
-- Simple Configurator GUI
-- Configurable timer (from boot-only to 24 hours)
-- Detailed logging of applied settings
-- Full service control (Install / Uninstall / Start / Stop)
+- MPO, ULPS, ShaderCache, TDR, HAGS, Overlay fixes, and more
+- Configurable application interval (boot-only → 24h)
+- Detailed logging
+- Simple install/uninstall from the configurator
 
-### How to use
-1. Download the latest release
-2. Run `MPOGPUFIX_Service_Configurator.exe` **as Administrator**
-3. Choose your desired tweaks
-4. Install and start the service
+### Recommended Workflow
+1. Run the Configurator as Administrator
+2. Select your desired settings
+3. Install + Start the service
+4. Reboot once
 
-**Note:** Reboot recommended after initial setup.
-
-### Screenshots
-*(add your screenshots here)*
+**Optional:** For more manual control and one-click toggles, you can also use the original [MPO-GPU-FIX](https://github.com/RedDot-3ND7355/MPO-GPU-FIX).
 
 ### Donations
-Feel free to donate! Any amount helps <3  
 [PayPal](https://www.paypal.com/donate/?hosted_button_id=ZURUG4V6F6LRN)
 
 ---
