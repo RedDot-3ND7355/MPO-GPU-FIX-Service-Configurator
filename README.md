@@ -23,6 +23,15 @@ Includes:
 ### Donations
 [PayPal](https://www.paypal.com/donate/?hosted_button_id=ZURUG4V6F6LRN)
 
+## Changelog
+
+**v1.0 (Initial Release)**
+- Background service with timer-based registry application
+- Full Configurator GUI with service management
+- Support for all major MPO-GPU-FIX tweaks
+- Detailed logging
+- AMD GPU detection and profile handling
+
 ---
 
 Made with ❤️ by RedDot-3ND7355
